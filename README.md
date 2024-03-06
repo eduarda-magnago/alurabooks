@@ -3,4 +3,4 @@ Desenvolvido durante o curso "HTML e CSS: responsividade com mobile-first" da pl
 <br>
 Responsivo para Mobile, Tablet e Desktop.
 <br>
-Deploy: https://eduarda-magnago.github.io/alurabooks/
+Deploy: <a href="https://eduarda-magnago.github.io/alurabooks/" target="_blank>
